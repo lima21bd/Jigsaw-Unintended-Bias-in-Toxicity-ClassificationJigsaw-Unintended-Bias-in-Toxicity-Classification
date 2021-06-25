@@ -20,3 +20,8 @@ The main challenge of this project is the gigantic amount of train data. The mai
 * **Programming Language:** Python
 * **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Keras, TensorFlow
 * **Environment:** Kaggle Notebook
+
+## Executing Program
+
+* Go to [nbviewer](https://nbviewer.jupyter.org/) to run jupyter notebooks if it fails to open on Github
+* Copy and Paste the URL of the .ipynb file in the blank of the nbviewer:
