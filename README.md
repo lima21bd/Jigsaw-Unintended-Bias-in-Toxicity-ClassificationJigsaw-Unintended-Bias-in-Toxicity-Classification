@@ -38,7 +38,9 @@ The main challenge of this project is the gigantic amount of train data. The mai
   * Submission File Creation
 
 - [x] Submission.csv
-
+  
+  I submitted this file on the kaggle competition to get accuracy score.
+  
 - [x] Report.pdf
 
   This document contains Abstract, Methodology, Result Analysis for this project.
