@@ -13,5 +13,7 @@ This project is a part of the Machine Learning Course provided by Upskill Income
 
 ## Getting Started
 
+The main challenge of this project is the gigantic amount of train data. The main starting point should be data exploration, data cleaning, dealing with the null values, feature engineering. This is a binary classification problem & highly imbalanced dataset.
+
 
 
