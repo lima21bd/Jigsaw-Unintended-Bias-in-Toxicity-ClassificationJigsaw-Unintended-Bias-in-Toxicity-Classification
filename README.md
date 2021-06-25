@@ -41,3 +41,7 @@ Email: lima1.cse@gmail.com
 ## License
 
 This project is licensed under the [Apache License 2.0] License - see the LICENSE.md file for details
+
+# Acknowledgements
+
+StackOverflow, Towards Data Science articles, Data Exploration and Feature Engineering Techniques of Kaggle Grandmasters, Coursera
