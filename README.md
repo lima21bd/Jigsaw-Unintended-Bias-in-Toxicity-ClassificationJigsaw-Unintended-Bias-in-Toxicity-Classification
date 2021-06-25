@@ -29,3 +29,8 @@ The main challenge of this project is the gigantic amount of train data. The mai
 ## Help
 
 If you face difficulties running the model on your local machine or Google Colab Notebook, then check if you are running the Kernel on CPU or GPU. If you're running on CPU, change the runtime to GPU. I ran this notebook on Kaggle environment & it worked well for me.
+
+## Author
+
+Khadija Akter Lima
+[LinkedIn](https://www.linkedin.com/in/lima21bd/)
