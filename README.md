@@ -17,6 +17,6 @@ The main challenge of this project is the gigantic amount of train data. The mai
 
 ## Dependencies
 
-* Programming language: Python
-* Libraries: NumPy, Pandas, Matplotlib, Seaborn, Keras, TensorFlow
-* Environment: Kaggle Notebook
+* **Programming Language:** Python
+* **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Keras, TensorFlow
+* **Environment:** Kaggle Notebook
