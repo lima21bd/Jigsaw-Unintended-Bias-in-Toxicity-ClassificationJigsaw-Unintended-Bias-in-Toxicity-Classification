@@ -21,6 +21,14 @@ The main challenge of this project is the gigantic amount of train data. The mai
 * **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Keras, TensorFlow
 * **Environment:** Kaggle Notebook
 
+## This Repository
+
+- [x] Project 2 Instructions.pdf
+
+  This document includes Upskill's instructions for submitting this project.
+  
+- [x] 
+
 ## Executing Program
 
 * Go to [nbviewer](https://nbviewer.jupyter.org/) to run jupyter notebooks if it fails to open on Github
