@@ -27,7 +27,15 @@ The main challenge of this project is the gigantic amount of train data. The mai
 
   This document includes Upskill's instructions for submitting this project.
   
-- [x] 
+- [x] Jigsaw Unintended Bias in Toxicity Classification with Bidirectional LSTM.ipynb
+  
+  This notebook contains the followings
+  * Text Pre-processing
+  * Vector Extraction
+  * Weight Distribution
+  * Model Building
+  * Memory Reduction
+  * Submission File Creation
 
 ## Executing Program
 
