@@ -37,6 +37,12 @@ The main challenge of this project is the gigantic amount of train data. The mai
   * Memory Reduction
   * Submission File Creation
 
+- [x] Submission.csv
+
+- [x] Report.pdf
+
+  This document contains Abstract, Methodology, Result Analysis for this project.
+
 ## Executing Program
 
 * Go to [nbviewer](https://nbviewer.jupyter.org/) to run jupyter notebooks if it fails to open on Github
