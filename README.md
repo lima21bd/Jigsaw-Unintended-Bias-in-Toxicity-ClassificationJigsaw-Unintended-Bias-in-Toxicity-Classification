@@ -25,3 +25,7 @@ The main challenge of this project is the gigantic amount of train data. The mai
 
 * Go to [nbviewer](https://nbviewer.jupyter.org/) to run jupyter notebooks if it fails to open on Github
 * Copy and Paste the URL of the .ipynb file in the blank of the nbviewer
+
+## Help
+
+If you face difficulties running the model on your local machine or Google Colab Notebook, then check if you are running the Kernel on CPU or GPU. If you're running on CPU, change the runtime to GPU. I ran this notebook on Kaggle environment & it worked well for me.
